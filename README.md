@@ -1,6 +1,7 @@
 # 🧘 Focus Mode App
 
-A modern and minimal Flutter app designed to help users stay focused by starting a countdown timer. Built with a clean purple theme and circular progress animation, it’s ideal for deep work sessions and improving productivity.
+A modern and minimal Flutter app designed to help users stay focused by starting a countdown timer. 
+Built with a clean purple theme and circular progress animation, it’s ideal for deep work sessions and improving productivity.
 
 ---
 
