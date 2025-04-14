@@ -30,7 +30,7 @@ Built with a clean purple theme and circular progress animation, it’s ideal fo
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/focus_mode_app.git
+git clone https://github.com/bektas-sari/focus_mode_app.git
 cd focus_mode_app
 ```
 
