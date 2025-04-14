@@ -15,12 +15,6 @@ Built with a clean purple theme and circular progress animation, it’s ideal fo
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots here (e.g., `assets/screenshots/focus_mode.png`)_
-
----
-
 ## 🛠 Built With
 
 - Flutter  
