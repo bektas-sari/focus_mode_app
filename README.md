@@ -56,6 +56,11 @@ Pull requests are welcome! Feel free to fork this project and suggest improvemen
 
 ## 📄 License
 
-MIT License © 2024 yourusername
+MIT License © 2025 bektas-sari
+
+---
+## Contact
+
+Email: bektas.sari@gmail.com
 
 
